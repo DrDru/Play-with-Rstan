@@ -14,3 +14,13 @@ https://github.com/stan-dev/example-models/blob/master/Bayesian_Cognitive_Modeli
 
 
 https://cran.r-project.org/web/packages/loo/vignettes/loo2-with-rstan.html
+
+Youtube
+- 6 minutes intro 
+https://www.youtube.com/watch?v=tLprFqSWS1w
+
+- Mixed effect
+https://www.youtube.com/watch?v=j3aEvmeMNGY
+
+Rstanarm package
+https://cran.r-project.org/web/packages/rstanarm/vignettes/rstanarm.html
