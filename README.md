@@ -12,6 +12,7 @@ https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
 
 https://github.com/stan-dev/example-models/blob/master/Bayesian_Cognitive_Modeling/!%20other/rstan%20all%20in%20one%20scripts%20backup/ParameterEstimation/Binomial/Rate_1_Stan.R
 
+https://cran.r-project.org/web/packages/bridgesampling/vignettes/bridgesampling_example_stan.html
 
 https://cran.r-project.org/web/packages/loo/vignettes/loo2-with-rstan.html
 
@@ -24,3 +25,6 @@ https://www.youtube.com/watch?v=j3aEvmeMNGY
 
 Rstanarm package
 https://cran.r-project.org/web/packages/rstanarm/vignettes/rstanarm.html
+
+
+http://www.sanjogmisra.com/blog/stan/
