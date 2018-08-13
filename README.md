@@ -29,3 +29,7 @@ https://cran.r-project.org/web/packages/rstanarm/vignettes/rstanarm.html
 https://www.youtube.com/watch?v=z7zOzL9Rrzs   ### Rstanarm intro video
 
 http://www.sanjogmisra.com/blog/stan/
+
+
+Easy to use sample size calculator
+https://www.stat.ubc.ca/~rollin/stats/ssize/b2.html
