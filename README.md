@@ -33,3 +33,8 @@ http://www.sanjogmisra.com/blog/stan/
 
 Easy to use sample size calculator
 https://www.stat.ubc.ca/~rollin/stats/ssize/b2.html
+Statistical rethinking lectures
+https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc
+
+Exercise 2: Bayesian A/B testing for Swedish Fish Incorporated with Stan
+https://rpubs.com/rasmusab/exercise_2_bayesian_ab_testing
